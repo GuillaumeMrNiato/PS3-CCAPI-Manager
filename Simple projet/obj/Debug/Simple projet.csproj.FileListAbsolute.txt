@@ -1,0 +1,28 @@
+c:\users\utilisateur_\documents\visual studio 2012\Projects\Simple projet\Simple projet\bin\Debug\Simple projet.exe.config
+c:\users\utilisateur_\documents\visual studio 2012\Projects\Simple projet\Simple projet\bin\Debug\Simple projet.exe
+c:\users\utilisateur_\documents\visual studio 2012\Projects\Simple projet\Simple projet\bin\Debug\Simple projet.pdb
+c:\users\utilisateur_\documents\visual studio 2012\Projects\Simple projet\Simple projet\obj\Debug\Simple projet.csprojResolveAssemblyReference.cache
+c:\users\utilisateur_\documents\visual studio 2012\Projects\Simple projet\Simple projet\obj\Debug\Simple_projet.Form1.resources
+c:\users\utilisateur_\documents\visual studio 2012\Projects\Simple projet\Simple projet\obj\Debug\Simple_projet.Properties.Resources.resources
+c:\users\utilisateur_\documents\visual studio 2012\Projects\Simple projet\Simple projet\obj\Debug\Simple projet.csproj.GenerateResource.Cache
+c:\users\utilisateur_\documents\visual studio 2012\Projects\Simple projet\Simple projet\obj\Debug\Simple projet.exe
+c:\users\utilisateur_\documents\visual studio 2012\Projects\Simple projet\Simple projet\obj\Debug\Simple projet.pdb
+C:\Users\Utilisateur_\Documents\Visual Studio 2012\Projects\Simple projet\Simple projet\bin\Debug\PS3Lib.dll
+C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\Simple projet\Simple projet\bin\Debug\Simple projet.exe.config
+C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\Simple projet\Simple projet\obj\Debug\Simple projet.exe
+C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\Simple projet\Simple projet\obj\Debug\Simple projet.pdb
+C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\Simple projet\Simple projet\bin\Debug\Simple projet.exe
+C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\Simple projet\Simple projet\bin\Debug\Simple projet.pdb
+C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\Simple projet\Simple projet\obj\Debug\Simple projet.csprojResolveAssemblyReference.cache
+C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\Simple projet\Simple projet\obj\Debug\Simple_projet.Form1.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\Simple projet\Simple projet\obj\Debug\Simple_projet.Properties.Resources.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\Simple projet\Simple projet\obj\Debug\Simple projet.csproj.GenerateResource.Cache
+C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\Simple projet - Copie\Simple projet\bin\Debug\Simple projet.exe.config
+C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\Simple projet - Copie\Simple projet\obj\Debug\Simple projet.exe
+C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\Simple projet - Copie\Simple projet\obj\Debug\Simple projet.pdb
+C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\Simple projet - Copie\Simple projet\bin\Debug\Simple projet.exe
+C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\Simple projet - Copie\Simple projet\bin\Debug\Simple projet.pdb
+C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\Simple projet - Copie\Simple projet\obj\Debug\Simple projet.csprojResolveAssemblyReference.cache
+C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\Simple projet - Copie\Simple projet\obj\Debug\Simple_projet.Form1.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\Simple projet - Copie\Simple projet\obj\Debug\Simple_projet.Properties.Resources.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\Simple projet - Copie\Simple projet\obj\Debug\Simple projet.csproj.GenerateResource.Cache
